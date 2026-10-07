@@ -1,0 +1,5 @@
+product,company,modality,route,dosing,initial_approval_year,reported_sales_usd_m,sales_year,sales_scope,indication_scope,source
+Nurtec ODT / Vydura,Pfizer,CGRP receptor antagonist,Oral ODT,Every other day for prevention; as-needed for acute treatment,2020,928,2023,Global,Reported product revenue includes acute and preventive uses,Pfizer 2023 Form 10-K
+Qulipta,AbbVie,CGRP receptor antagonist,Oral tablet,Once daily,2021,408,2023,Global,Preventive migraine product; $405M US + $3M international,AbbVie FY2023 results
+Aimovig,Amgen,CGRP receptor monoclonal antibody,Subcutaneous injection,Monthly,2018,323,2023,Global,Preventive migraine; $303M US + $20M ROW,Amgen FY2023 results
+Botox Therapeutic,AbbVie,OnabotulinumtoxinA,Injection,Every 12 weeks for chronic migraine,1989,2991,2023,Global therapeutic sales across indications,Chronic migraine indication added in 2010; reported revenue is not migraine-specific,AbbVie FY2023 results; FDA label

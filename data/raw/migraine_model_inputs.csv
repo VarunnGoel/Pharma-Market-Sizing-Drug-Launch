@@ -1,0 +1,7 @@
+input_id,input_name,value,unit,year,geography,source_type,source_reference,notes
+POPULATION,US adult resident population age 18+,262083034,people,2023,United States,PUBLIC FACT,Census SCPRC-EST2023-18+POP,July 1 2023 resident population age 18+
+PREVALENCE,Broad migraine/severe-headache prevalence proxy,0.153,fraction,2015,United States,PUBLIC FACT,Burch et al. 2018 PMID 29527677,3-month self-reported migraine or severe headache prevalence; historical survey proxy
+DIAGNOSIS,Migraine ever medically diagnosed,0.562,fraction,2005,United States,PUBLIC FACT,Diamond et al. AMPP PMID 17371352,56.2% of people with migraine had ever received a medical diagnosis
+TREATMENT_ENGAGEMENT,Modeled prescription-treatment engagement,0.32,fraction,Model assumption,United States,ANALYST ASSUMPTION,Illustrative assumption,Separates diagnosed population from patients assumed actively engaged in prescription treatment
+PREVENTIVE_CANDIDATE,Preventive-treatment candidate rate,0.40,fraction,2024,United States,PUBLIC FACT,AHS position statement DOI 10.1111/head.14692,AHS states preventive therapy is indicated in approximately 40% of patients with migraine; model applies this as a simplified sequential funnel input
+COMMERCIAL_ACCESS,Illustrative Commercial Access Factor,0.40,fraction,Model assumption,United States,ANALYST ASSUMPTION,Illustrative assumption,Commercial reach assumption only; not clinical eligibility or universal payer rule
